@@ -1,0 +1,3 @@
+docker cp ledger.dat 1b5066dfa62d:/home/ubuntu/GST/
+docker cp ledger.dat add32dfdaa55:/home/ubuntu/GST/
+docker cp ledger.dat 6dfd292e5fae:/home/ubuntu/GST/
